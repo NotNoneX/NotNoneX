@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=我不怕走夜路,我怕站在人群中.">
   </a>
 </h1>
-![](https://raw.githubusercontent.com/NotNoneX/NotNoneX/main/assets/github-contribution-grid-snake.svg)
+
+![snake](https://raw.githubusercontent.com/NotNoneX/NotNoneX/main/assets/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNoneX&layout=compact)](https://github.com/NotNoneX)
 
