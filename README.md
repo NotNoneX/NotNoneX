@@ -8,5 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNoneX&layout=compact)](https://github.com/NotNoneX)
 
-
 [![NotNoneX's github stats](https://github-readme-stats.vercel.app/api?username=NotNoneX)](https://github.com/NotNoneX)
