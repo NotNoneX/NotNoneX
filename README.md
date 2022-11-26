@@ -4,8 +4,9 @@
   </a>
 </h1>
 
-![snake](https://raw.githubusercontent.com/NotNoneX/NotNoneX/main/assets/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/NotNoneX/NotNoneX/master/assets/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNoneX&layout=compact)](https://github.com/NotNoneX)
+
 
 [![NotNoneX's github stats](https://github-readme-stats.vercel.app/api?username=NotNoneX)](https://github.com/NotNoneX)
