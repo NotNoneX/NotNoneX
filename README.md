@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/NotNoneX">
-    <img src="https://readme-typing-svg.herokuapp.com?color=666999&lines=Our Goal, Is The Sea And The Stars!">
+    <img src="https://readme-typing-svg.herokuapp.com?color=666999&lines="Our Goal, Is The Sea And The Stars!">
   </a>
 </h1>
 
