@@ -6,9 +6,9 @@
 
 
 
-![Snake](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/NotNoneX/NotNoneX/master/assets/github-contribution-grid-snake.svg)
+[![Snake](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/NotNoneX/NotNoneX/master/assets/github-contribution-grid-snake.svg)](https://github.com/NotNoneX)
 
-![NotNoneX](https://metrics.lecoq.io/NotNoneX?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[![NotNoneX](https://metrics.lecoq.io/NotNoneX?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)](https://github.com/NotNoneX)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNoneX&layout=compact)](https://github.com/NotNoneX)
 
