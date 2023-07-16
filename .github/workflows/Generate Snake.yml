@@ -13,19 +13,19 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v3
       
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: actions/generate-snake-game-from-github-contribution-grid@v2
         with:
-          github_user_name: NotNoneX
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-contribution-grid-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
             assets/github-snake-custom.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: actions/add-commit@v9
         with:
           branch: master
           message: 'Generate Contribution Snake'
