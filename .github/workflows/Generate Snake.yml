@@ -25,7 +25,7 @@ jobs:
             assets/github-snake-custom.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to GitHub
-        uses: actions/add-commit@v9
+        uses: EndBug/add-and-commit@v9
         with:
           branch: master
           message: 'Generate Contribution Snake'
