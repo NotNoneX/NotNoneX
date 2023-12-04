@@ -8,15 +8,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%207%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 114.4 kB Used in GitHub's Storage 
+> 📦 114.7 kB Used in GitHub's Storage 
  > 
-> 🏆 630 Contributions in the Year 2023
+> 🏆 631 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
